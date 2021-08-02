@@ -254,6 +254,27 @@ news 消息，idea 想法，fact 事实，promise 承诺，question 问题，dou
 > The `idea` that I can be a millionaire is impossible.   
 我会成为百万富翁这个想法是不可能的。
 
+### 状语与补语的区别
+* 补语修饰的对象只有两个: 主语，宾语
+  补语指的是这个动作产生的效果
+
+> I played football `happy`.  
+我踢足球很开心。 `修饰I`，是补语。
+
+> I went to bed `cold and hungry`.  
+我又冷又饿的上床睡觉了。`修饰I`
+
+> I cut my hair `short`.  
+我把头发剪短了。`修饰hair`
+
+* 状语修饰的对象很多，但核心是缠着谓语进行
+  状语是指这个动作本身自带的性质
+> I played football happily.  
+我踢足球很开心。 `修饰play`，是状语
+
+> I went to bed `slowly`.  
+我慢吞吞地去床上睡觉。`修饰went`
+s
 ## 句子的类型
 
 * 简单句
@@ -271,7 +292,7 @@ news 消息，idea 想法，fact 事实，promise 承诺，question 问题，dou
   句子的某些成分直接由从属分句表示，叫复杂句。
   > He likes to drink beer `that will make him fat`.  
   他喜欢喝会发胖的啤酒。
-  
+
 ## 简单句的基本句型
 
 * 主 + 谓
