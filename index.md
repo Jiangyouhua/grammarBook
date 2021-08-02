@@ -2,53 +2,273 @@
 
 ## 句子成份
 
-* 主语：句子所陈述的对象。
-  > `I` study English.   
-  我学英语。
+句子有八大成份，分别为：主谓宾，定状补；还有表语、同位语。
 
-* 谓语：主语的动作或状态。一般是有动作意义的动词。
-  > I `study` English.  
-  我学英语。
+1、主语：句子所陈述的对象。
+由名词、代词、数词、不定式、动名词、主语从句和短语等来担任。
+> `The sun` rises in the east.   
+太阳从东方升起。 `名词`  
 
-* 宾语：属于动作的接受者。
-  > I study `English`.   
-  我学英语。
+> `I` study English.   
+我学英语。 `代词`
 
-* 定语：修饰名词或代词的成分。
-  > I quickly found this `English` book very interesting.   
-  我很快发现这本英文书非常有趣。
+>`Twenty years` is a short time in history.  
+二十年在历史里很短。 `数词`
 
-* 状语：修饰动词、形容词、副词或句子的成分。
-  > I `quickly` found this English book very interesting.  
-  我很快发现这本关于生命的书非常有趣。
+>`Seeing` is believing.   
+眼见为实。`动名词`  
+注意，分词是不可以作主语的，如果有doing形式的作主语，那是动名词，而不是现在分词。
 
-* 补语：分为宾语补足语和主语补足语。是对宾语和主语的补充说明。
-  > I quickly found this English book `very interesting`.   
-  我很快发现这本关于生命的书非常有趣。
+>`To see` is to believe.  
+眼见为实。`不定式`
 
-* 表语：紧跟系动词后面的成分。
-  > I am `Iron Man`.  
-  我是钢铁侠。
+> It is very clear `that the elephant is round and tall like a tree.`   
+很明显，大象像树一样又圆又高。`主语从句`
 
-* 同位语: 一个名词(或其它形式)对另一个名词或代词进行解释或补充说明，这个名词（或其它形式）就是同位语。
-  > `Iron Man`, Tony Stark is a hero.  
-  钢铁侠托尼塔克是位英雄。
-  
+2、谓语：说明主语的动作、状态和特征。   
+一般是有动作意义的动词，由动词、动词词组、或情态动词或助动词+动词组成。
+> I `study` English.  
+我学英语。动词
+
+>He `looked after` two orphans.  
+他照看两个孤儿。 `动词短语`
+
+> She `can speak` English well.  
+她英语讲得很好。 `情态动词` + `动词`
+
+> She `doesn’t seem to like` dancing.  
+她似乎不喜欢跳舞。`助动词` + `情态动词` + `动词`
+
+3、宾语：属于动作、行为的承受者，或目标对象。   
+担当词类与主语相同：可是名词、代词、数词、不定式、动名词、主语从句和短语。
+
+> I study `English`.   
+我学英语。`名词`
+
+> I love `you`.   
+他爱你。`代词`
+
+> How many do you need? We need `two`.  
+你们需要多少？我们需要2个。`数词`
+
+> I enjoy `working` with you.   
+我喜欢和你一起工作。`动名词`
+
+> I hope `to see` you again.   
+我希望能再次见到你。`不定式`
+
+> He wrote down `what I said`.  
+他把我说的写下来。`宾语从句`
+
+4、定语：修饰或限制名词或代词的词、词组或句子。  
+根据定义，可以看出定语主要用来修饰主语或宾语。
+
+> John is a `chemistry` teacher.  
+约翰是一名化学老师。`名词`
+
+> He is `our` friend.  
+他是我们的朋友。`代词`
+
+> We belong to the `third` world.   
+我们属于第三世界。`数词`
+
+> He was advised to teach the `lazy` boy a lesson.  
+他被建议给这个懒惰的男孩一个教训。`形容词`
+
+> The man over there is my `old` friend.  
+那边的那个人是我的老朋友。`副词`
+
+> The woman with a baby `in her arms` is my sister.   
+怀里抱着婴儿的女人是我姐姐。`介词短语`，作后置定语
+
+> The boys `playing football` are in Class 2.   
+踢足球的男孩在二班。`现在分词`，作后置定语
+
+> The trees `planted last` year are growing well now.   
+去年种的树现在长得很好。 `过去分词`，作后置定语
+
+> I have many books `to read`.  
+我有许多书要读。 `不定式`，作后置定语
+
+> You should do everything `that I do`.   
+你应该做我所做的一切。`定语从句`，作后置定语
+
+**定语后置：**  
+* 如果定语是由一个单词表示时，通常要前置。而由一个词组或一个句子表示时，通常则后置
+
+> The girl `in red` is his sister.  
+红衣女孩是他的妹妹。`介词短语`，作后置定语
+
+> We have a lot of work `to do`.  
+我们有很多工作要做。`不定式`，作后置定语
+
+* 以Something为代表的十多个复合不定代词，可被形容词修饰，作后置定词。   
+
+| 项 | 某 some | 任何 any | 没 no | 所有 every |
+| --- | --- | --- | --- | --- |
+| 人| someone   | anyone  | no one  | everyone   | 
+| 人| somebody  | anybody  | nobody  | everybody | 
+| 事物 | something  | anything  | nothing  | everything |
+| 地方 | somewhere  | anywhere  | nowhere  |everywhere |
+
+> Something `interesting` happened here.  
+这里发生了一些有趣的事情，`形容词`，作后置定语
+
+5、状语：修饰动词、形容词、副词或句子的成分。  
+由副词、介词短语、分词和分词短语、不定式或相当于副词的词或短语来担当。
+
+* 通常修饰动词
+> He runs `fast`. 
+他跑得很快。
+
+* 表示时间、地点、原因、结果、程度、条件、方式和让步。
+
+> I will go there `tomorrow`.  
+我明天会去那里。`时间`
+
+> The meeting will be held `in the meeting-room`.  
+会议将在会议室举行。`地点`
+
+> The meat went bad `because of the hot weather`.  
+由于天气炎热，肉变质了。`原因`
+
+> He studies hard `to learn English well`.  
+他努力学习，把英语学好。`结果`
+
+> He didn’t study hard `so that he failed in the exam`.  
+他学习不努力，所以考试不及格。`结果`
+
+> I like some of you `very much`.  
+我非常喜欢你们中的一些人。`程度`
+
+> `If you study hard`, you will pass the exam.  
+如果你努力学习，你就会通过考试。`条件`
+
+> He goes to school `by bike`.  
+他骑自行车上学。`方式`
+
+> `Though he is young`, he can do it well.  
+他虽然年轻，但也能做好。`让步`
+
+6、补语：分为宾语补足语和主语补足语。是对宾语和主语的补充说明。
+* 宾语补足语：有些及物动词除了有一个直接宾语以外，还要有一个宾语补足语，说明宾语的身份和状态。以补充其意义不足，使句子的意义完整。
+
+> We elected him `monitor`.   
+我们选他为班长。`名词`
+
+> We all think it `a pity` that she didn’t come here.   
+我们都认为她没有来这里很遗憾。`名词`
+
+> We will make them `happy`.   
+我们会让他们开心。`形容词`
+
+> We found nobody `in`.   
+我们发现没有人进去。`副词`
+
+> Please make yourself `at home`.   
+请让自己在家。`介词短语`
+
+> Don’t let him `do that`.   
+不要让他那样做。`省to不定式`
+
+> His father advised him `to teach the lazy boy a lesson`.   
+他的父亲建议他给这个懒惰的男孩一个教训。 `带to不定式`
+
+> Don’t keep the lights `burning`.   
+不要让灯一直燃烧。`现在分词`
+
+> I’ll have my bike `repaired`.   
+我会修理我的自行车。`过去分词`
+
+* 主语补足语：对主语的补充。   
+被动语态的主语是主动语态的宾语
+
+> He was elected `monitor`.   
+他被选为班长。
+
+> She was found singing `in the next room`.   
+她被发现在隔壁房间唱歌。
+
+> He was advised `to teach the lazy boy a lesson`.   
+他被建议给这个懒惰的男孩一个教训。
+
+7、表语：紧跟系动词后面的成分。   
+表示主语的性质、状态和特征。
+
+> I am `Iron Man`.  
+我是钢铁侠。`名词`
+
+> Jiang Youhua! You don’t look it.   
+你不看。`代词`
+
+> Five and five is `ten`.  
+五加五等于十。 `数词`
+
+> He is `asleep`.  
+他睡着了。`形容词`
+
+> His father is `in`.  
+他父亲在。`副词`
+
+> The picture is `on the wall`.  
+照片在墙上。`介词短语`
+
+> My watch is `gone`/`missing`/`lost`.  
+我的手表不见了。`分词`
+
+> To wear a flower is `to say` "I’m poor, I can’t buy a ring".   
+戴花就是说"我很穷，我买不起戒指"。`不定式`
+
+> The question is `whether they will come`.  
+问题是他们是否会来。表语从句
+
+8、同位语: 一个名词(或其它形式)对另一个名词或代词进行解释或补充说明，这个名词（或其它形式）就是同位语。
+同位语可分为限制性同位语和非限制性同位语。
+
+* 限制性同位语，无逗号隔开， 可以缩小被说明事物的范围。
+> `Tom's uncle` Jim is a teacher.   
+汤姆的叔叔杰米是老师。`限制性`, 汤姆的叔叔不止一个。
+
+* 非限制性同位语，用逗号隔开，无法缩小被说明事物范围，常用。
+> `Tom's uncle`, Jim, is a teacher.   
+汤姆的叔叔，杰米是老师。`限制性`, 汤姆的叔叔只有一个。
+
+* 指其部分内容。
+> Tom likes various kinds of fruits, `especially tropical fruit`.  
+汤姆喜欢很多种类的水果，特别是热带水果。`指部分内容`
+
+* 同位语不会影响被说明对象的数量
+> The policemen each have a gun.   
+The policemen each has a gun. 错误  
+每个警察都有一把枪。
+
+* 后面基本跟同位语的词  
+namely 即, for instance 例如, for example 例如, that is 即, especially 尤其, particularly 特别, chiefly 主要, mostly 主要, mainly 主要
+
+> Only one student passed the exam, `namely` John.   
+只有一个学生通过了考试，也就是John.
+
+* 句子作同位语先行词  
+news 消息，idea 想法，fact 事实，promise 承诺，question 问题，doubt 怀疑，thought 想法，hope 希望，message 消息，suggestion 建议，words 消息, possibility 可能性, decision 决定
+
+> The `idea` that I can be a millionaire is impossible.   
+我会成为百万富翁这个想法是不可能的。
+
 ## 句子的类型
 
 * 简单句
-  * 只含有一个主谓结构。 且句子各成分都是只由单词或短语构成的句子。
+  * 只有一个主谓结构。 且句子各成分只由单词或短语构成。
   > He drank beer.  
   他喝啤酒。
 
 * 并列句
-  * 由并列连词把两个或两个以上的简单句连在一起的句子叫并列句。
+  * 由并列连词把两个或两个以上的简单句连在一起。
   * 不同的并列连词表示并列分句之间的不同关系。
   > He drank beer, `and` it made him fat.   
   他喝啤酒，因此发胖了。（并列连词是and）
 
 * 复杂句
-  句子的某个成分直接由从属分句表示，叫复杂句。
+  句子的某些成分直接由从属分句表示，叫复杂句。
   > He likes to drink beer `that will make him fat`.  
   他喜欢喝会发胖的啤酒。
   
@@ -56,7 +276,7 @@
 
 * 主 + 谓
   * 称为"主谓结构"。
-  * 其谓语一般都是不及物动词。
+  * 其谓语一般是不及物动词。
   > Things change.  
   事物是变化的。
 
