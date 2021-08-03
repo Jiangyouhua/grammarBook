@@ -1,6 +1,110 @@
 # 语法
 
+## 概要
+
+* 语法
+   * 句法
+      * 三大分类
+         * 简单句
+         * 并列句：简单句 + 并列连词 + 简单句
+         * 复合句：简单句 + 从属连词 + 简单句
+      * 三大从句
+         * 定语从句：作定语，类形容词
+         * 状语从句：作状语，类副词
+         * 名词性从句：作名词用，可作名词在句中的成份。
+            * 主语从句：作主语
+            * 宾语从句：作宾语
+            * 表语从句：作表语
+            * 同位语从句：作同位语
+      * 四大句式
+         * 陈述句：肯定句，否定句
+         * 疑问句：一般疑问句，特殊疑问句，选择疑问句，反意疑问句
+         * 祈使句：肯定句，否定句
+         * 感叹句：How引导的感叹句，What引导的感叹句
+      * 特殊句式
+         * 倒装：
+         * 强调：
+         * 省略：
+         * 反义疑问句：
+      * 六大句型
+         * 主谓：
+         * 主谓宾：
+         * 主谓宾宾：
+         * 主谓宾补：
+         * 主系表：
+         * There be：
+      * 八大成分
+        * 主语
+        * 谓语
+        * 宾语
+        * 定语
+        * 状语
+        * 补足语
+        * 表语
+        * 同位语
+   * 词法（十大类）
+      * 名词
+         * 可数：单复数
+         * 不可数
+      * 代词
+         * 
+      * 动词
+         * 谓语动词：
+            * 时态
+            * 被动语态
+         * 非谓动词：
+            * 不定式: to do / bo be done
+            * 分词：过去分词、现在分词
+            * 动名词: doing
+      * 形容词
+      * 副词
+      * 介词
+      * 连词
+      * 冠词
+         * a, an, the
+      * 数词
+      * 感叹词
 ---
+
+## 简单例句 
+
+> A：I love you.   
+I主语，love谓语，you宾语
+
+> B：Why?
+
+> A：you are beautiful.  
+you主语，are系动词，beautiful表语
+
+> B：I agree，anything else？  
+I 主语，agree，谓语
+
+> A：you make me happy.  
+you主语，make谓语，me宾语，happy宾补，用来形容me
+
+> A：and I bought  you a rose.  
+I主语，bought谓语，you间接宾语，rose直接宾语
+
+> B：Oh my god，you are the most clever boy that I have ever met.  
+定语从句，I have ever met修饰boy，因为它是个句子，所以是定语从句。
+
+> B：But I don’t know whether you will still love me in the future.  
+I 主语，know谓语，whether you will still love me in the future是宾语，因为他是个句子，所以是宾语从句
+
+> A：I will be always loving you until I die.  
+until I die 作为状语，修饰I will be always loving you这个动作，因为I die 是个句子，所以这是个状语从句
+
+> B：That you love me is not allowed， because I’m your teacher.  
+That you love me是主语，因为是个完整的句子，所以是主语从句
+
+> A：The fact that you are my teacher doesn’t affect our love at all.  
+the fact 和that you are my teacher表述的是同一个事，you are my teacher是个句子，修饰fact，所以是同位语从句。
+
+> B：The problem is that I care about rumors.  
+The problem是主语，is系动词，I care about rumours是表语，因为它是个句子，所以是表语从句
+
+> A：Trust me, I’ll protect you.  
+___
 
 ## 句子的结构
 
