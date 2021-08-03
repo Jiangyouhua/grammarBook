@@ -6,41 +6,39 @@
    * 句法
       * 三大分类
          * 简单句
-         * 并列句：简单句 + 并列连词 + 简单句
-         * 复合句：简单句 + 从属连词 + 简单句
+         * 并列句：`简单句` + 并列连词 + `简单句`。
+         * 复合句：`简单句` + 从属连词 + `简单句`。
       * 三大从句
-         * 定语从句：作定语，类形容词
-         * 状语从句：作状语，类副词
          * 名词性从句：作名词用，可作名词在句中的成份。
-            * 主语从句：作主语
-            * 宾语从句：作宾语
-            * 表语从句：作表语
-            * 同位语从句：作同位语
+            * 主语从句：作主语。
+            * 宾语从句：作宾语。
+            * 表语从句：作表语。
+            * 同位语从句：作同位语。
+         * 定语从句：作定语，类形容词，又叫形容性从句。
+         * 状语从句：作状语，类副词，又叫副词性从句。
       * 四大句式
-         * 陈述句：肯定句，否定句
-         * 疑问句：一般疑问句，特殊疑问句，选择疑问句，反意疑问句
-         * 祈使句：肯定句，否定句
-         * 感叹句：How引导的感叹句，What引导的感叹句
+         * 陈述句：肯定句，否定句。
+         * 疑问句：一般疑问句，特殊疑问句，选择疑问句，反意疑问句。
+         * 祈使句：肯定句，否定句。
+         * 感叹句：How引导的感叹句，What引导的感叹句。
       * 特殊句式
-         * 倒装：
-         * 强调：
-         * 省略：
-         * 反义疑问句：
-      * 六大句型
-         * 主谓：
-         * 主谓宾：
-         * 主谓宾宾：
-         * 主谓宾补：
-         * 主系表：
-         * There be：
+         * 倒装：全部例装，部分倒装。
+         * 强调
+         * 省略
+      * 五大句型
+         * 主谓：主语 + 谓语。
+         * 主谓宾：主语 + 谓语 + 宾语。
+         * 主谓宾宾：主语 + 谓语 + 间接宾语 + 直接宾语。
+         * 主谓宾补：主语 + 谓语 + 宾语 + 宾语补足语。
+         * 主系表：主语 + 系动词 + 表语。
       * 八大成分
-        * 主语
-        * 谓语
-        * 宾语
-        * 定语
-        * 状语
-        * 补足语
-        * 表语
+        * 主语：名词、代词、数词、主语从句、动名词、the + 名词化的形容词
+        * 谓语：实义动词、实义动词词组、情态动词 + 动词原形、助动词 + 动词的某种形式、系动词 + 表语。
+        * 宾语：直接宾语指物或事，间接宾语指人或动物。可用词与主语同。
+        * 定语：形容词、代词、数词、名词、副词、介词、分词、不定式、定语从句。
+        * 状语：副词、介词、不定式、分语、状语从句。
+        * 补足语：名词、形容词、不定式、分词。
+        * 表语：名词、代词、形容词、副词、数词、介词、分词、动名词、不定式、表语林词。
         * 同位语
    * 词法（十大类）
       * 名词
@@ -69,109 +67,252 @@
 ## 简单例句 
 
 > A：I love you.   
-I主语，love谓语，you宾语
+`I` 主语，`love` 谓语，`you` 宾语
 
 > B：Why?
 
-> A：you are beautiful.  
-you主语，are系动词，beautiful表语
+> A：You are beautiful.  
+`You` 主语；`are` 系动词；`beautiful` 表语
 
 > B：I agree，anything else？  
-I 主语，agree，谓语
+`I` 主语；`agree` 谓语
 
-> A：you make me happy.  
-you主语，make谓语，me宾语，happy宾补，用来形容me
+> A：You make me happy.  
+`You` 主语；`make` 谓语；`me` 宾语；`happy` 宾补， 形容 `me`
 
 > A：and I bought  you a rose.  
-I主语，bought谓语，you间接宾语，rose直接宾语
+`I` 主语；`bought` 谓语；`you` 间接宾语；`rose` 直接宾语
 
 > B：Oh my god，you are the most clever boy that I have ever met.  
-定语从句，I have ever met修饰boy，因为它是个句子，所以是定语从句。
+`I have ever met` 修饰 `boy`，因为它是个`句子`，所以是`定语从句`
 
 > B：But I don’t know whether you will still love me in the future.  
-I 主语，know谓语，whether you will still love me in the future是宾语，因为他是个句子，所以是宾语从句
+`I` 主语；`know`谓语；whether you will still love me in the future是`宾语`，因为他是个`句子`，所以是`宾语从句`
 
 > A：I will be always loving you until I die.  
-until I die 作为状语，修饰I will be always loving you这个动作，因为I die 是个句子，所以这是个状语从句
+`until I die` 作为状语，修饰 I will be always loving you 这个`动作`，因为 `I die` 是个`句子`；所以这是个`状语从句`
 
-> B：That you love me is not allowed， because I’m your teacher.  
-That you love me是主语，因为是个完整的句子，所以是主语从句
+> B：That you love me is not allowed, because I’m your teacher.  
+`That you love me` 是`主语`，因为是个完整的`句子`，所以是`主语从句`
 
 > A：The fact that you are my teacher doesn’t affect our love at all.  
-the fact 和that you are my teacher表述的是同一个事，you are my teacher是个句子，修饰fact，所以是同位语从句。
+`the fact` 和 `that you are my teacher` 表述的是同一个事，`you are my teacher` 是个`句子`，修饰 `fact`，所以是`同位语从句`。
 
 > B：The problem is that I care about rumors.  
-The problem是主语，is系动词，I care about rumours是表语，因为它是个句子，所以是表语从句
+`The problem` 是主语，`is` 系动词，`I care about rumours` 是`表语`，因为它是个`句子`，所以是`表语从句`
 
 > A：Trust me, I’ll protect you.  
 ___
 
-## 句子的结构
 
-* **简单句**
-* 只有一个主谓结构。 且句子各成分只由单词或短语构成。
+## **简单句**
+只有一个主谓结构。 且句子各成分只由单词或短语构成。
 
 > He drank beer.  
 他喝啤酒。
+
+**主 + 谓**
+* 称为"主谓结构"。  
+* 其谓语一般是不及物动词。
+> Things `change`.  
+  事物是变化的。
+
+**主 + 系 + 表**
+* 称为"主系表结构"。
+* 其实连系动词在形式上也是一种谓语动词，但实质上表语成了谓语。
+> Mr. Turner `is` an artist.   
+  特纳先生是位画家。
+
+**主 + 谓 + 宾**
+* 称为"主谓宾结构"。
+* 其谓语一般多是及物动词。
+> We never `beat` children.   
+我们从来不打孩子
+
+**主 + 谓 + 间宾 + 直宾**
+* 称为"主谓宾宾结构"。
+* 其谓语应是可有双宾语的及物动词。
+* 传输对象为直接宾语，目标对象为间接宾语。
+> He `gave` his sister the book.   
+  He `gave` the book to his sister.   
+  他把这本书给了他的妹妹
+
+* 有时它们也可交换位置，这是需要在间接宾语的前面加上介词to或for 。 
+可换成带to结构（give sb. sth. -> give sth. to sb.）： 
+> give 给, bring 带, lend 借, pass 传递, return 归还, send 发送, show 展示, tell 讲述, write 写作。  
+含有：`把` sth.（动作）sb. 的意思。
+
+可换成带for结构（do sb. sth. -> do sth. for sb.）： 
+> do 做, buy 买, get 得到, make 制作, pay 支付, sing 唱歌。
+含有：`为` sb.（动作）sth. 的意思。
+
+**主 + 谓 + 宾 + 宾补**
+* 称为"主谓宾补结构"。
+* 其补语是宾语补语，与宾语一起即构成复合宾语。
+> I `found` the book easy.  
+我发现这本书不难。（形容词easy作补语）
+
+---
   
-* **并列句**
+## **并列句**
 * 由并列连词把两个或两个以上的简单句连在一起。
 * 不同的并列连词表示并列分句之间的不同关系。
 
-> He drank beer, `and` it made him fat.   
-他喝啤酒，因此发胖了。（并列连词是and）
+1. 表示并列关系：
 
-* **复杂句**
+* and 和，同，与，又，并且  
+> He washed the car `and` (he) polished it.   
+他冲洗汽车`并`给汽车打了蜡。
+
+* and then 接着
+> Let me just finish this `and then` I'll come.   
+让我把这个弄完，`随后`就来。
+
+* both ... and 既……又……
+> A man should have `both` courage `and` wisdom.   
+人`既`要有勇气`又`要有智慧。
+
+* not only ... but also 不仅……而且……
+> `Not only` does the sun give us light `but also` it gives us heat.   
+太阳`不仅`给了我们光明，`而且`给了我们热量。
+
+* neither... nor... 既不……也不……
+> They worked `neither` for fame `nor` for personal gains.   
+他们工作`既不`为名，`也不`为利。 
+
+2. 表示转折、对比关系。
+
+* but 但是，可是，而，却
+> I hope you don't mind, `but` where did you buy those shoes?  
+我希望你不要介意，`但是`你在哪里买的那些鞋？
+
+* however 然而, 无论
+> `However` carefully I explained, she still didn't understand.   
+`无论`我解释得多么仔细，她还是没弄懂。
+
+* yet 但是；尽管如此
+> The car is old, `yet` it is in good condition.   
+这辆车旧了，`但`车况很好。
+
+* while 而，但是，可是，却   
+> I do everything, `while` Bob only washes the dishes once.   
+我什么都做，`而`鲍勃只洗一次盘子。
+
+3. 表示选择关系。
+
+* either ... or 要么……要么……
+> He `either` washes the car, `or` polishes it.  
+他`要么`冲洗汽车，`要么`给汽车打蜡。
+
+* neither ... nor 即不……也不……
+> He `neither` washes the car, `nor` polishes it.  
+他`既不`冲洗汽车，`也不`给汽车打蜡。
+
+4. 表示因果关系。
+
+* and 因此
+> He drank beer, `and` it made him fat.   
+他喝啤酒，`因此`发胖了。（并列连词是and）
+
+* for 因为
+> He never washes his car, `for` he can’t afford it。  
+他从不洗车，`因为`他负担不起。
+
+* so 所以
+> He never washes his car, `so` his car is very dirty.  
+他从来不洗车，`因此`他的车非常脏。
+
+5. 表示其它关系。
+
+* not... but... 不仅……而且。
+> He `not` only washed the car, `but` also polished it.  
+他`不仅`冲洗了汽车，`而且`也给汽车打了蜡。
+
+* rather than 而不是；与其……宁愿
+> `Rather than` ride on a bus, he prefers to ride a bicycle.   
+`与其`坐公共汽车，他更喜欢骑自行车。
+
+* when 正当那时，相当于and at that time
+We were planting trees `when` it rained.
+下雨时我们`正在`植树。
+
+---
+
+## **复杂句**
 句子的某些成分直接由从属分句表示，叫复杂句。
 
-> He likes to drink beer `that will make him fat`.  
-他喜欢喝会发胖的啤酒。
+### 名词性从句
+在句子中起名词作用。
 
----
+1. 主语从句 （在复合句中充当主语成分的从句叫做主语从句）
+> `It's certain `that prices will go up.
+价格肯定会上涨。
 
-## 简单句的基本句型
+> `Why he left` wasn't important.
+他为什么离开并不重要。
 
-* 主 + 谓
-  * 称为"主谓结构"。
-  * 其谓语一般是不及物动词。
-  > Things change.  
-  事物是变化的。
+> `What I want `is a canvas travelling bag.
+我想要一个帆布旅行包。
 
-* 主 + 系 + 表
-  * 称为"主系表结构"。
-  * 其实连系动词在形式上也是一种谓语动词，但实质上表语成了谓语。
-  > Mr. Turner is an artist.   
-  特纳先生是位画家。
+2. 表语从句 （从句作的是主句的表语成分）
 
-* 主 + 谓 + 宾
-  * 称为"主谓宾结构"。
-  * 其谓语一般多是及物动词。
-  > We never beat children.   
-  我们从来不打孩子
+> The fact is `(that) she never liked him`.
+事实是，她从来没有喜欢过他。
 
-* 主 + 谓 + 间宾 + 直宾
-  * 称为"主谓宾宾结构"。
-  * 其谓语应是可有双宾语的及物动词。
-  * 一个是间接宾语，一个是直接宾语。
-  * 动作对象为直接宾语，目标对象为间接宾语。
-  > He gave the book to his sister.  
-  他把这本书给了他的妹妹
+> That was `why he spoke French so funnily`.
+这就是他讲法语的原因。
 
-* 主 + 谓 + 宾 + 宾补
-  * 称为"主谓宾补结构"。
-  * 其补语是宾语补语，与宾语一起即构成复合宾语。
-  > I found the book easy.  
-  我发现这本书不难。（形容词easy作补语）
+> I want to be a teacher. That's `what I want to be`.
+我想成为一名教师。 这就是我想成为的。
 
-* There be 句型
-  * 英语中常用句型，意思是"有"，表示人或事物的存在，或某地有某物。
-  > There are some sharks.   
-  这有鲨鱼。
-  
----
-### 并列句
----
-### 复杂句
+
+3. 宾语从句 （置于动词、介词等词性后面起宾语作用的从句）
+
+> I've heard it said `that you've won a scholarship`.
+我听说你获得了奖学金。
+
+> I wonder `whether you would mind doing me a favour`.
+我不知道你是否介意帮我一个忙。
+
+> I said `he might have whichever he liked`.
+我说他可能有他喜欢的。
+
+
+4. 同位语从句 （表示前面一般是数量有限的、表示抽象意义的名词）
+
+> Word came `that he had been abroad`.
+有消息说他在国外。
+
+> The news `that our team has won the game was true`.
+我们队赢得比赛的消息是真的。
+
+> That question `whether we need it has not been considered`.
+尚未考虑我们是否需要它的问题。
+
+### 形容词性（定语）从句既然可以做为形容词，用于修饰名词。  
+广义的讲，句子中任何有名词的地方就可以出现定语从句。而先行词是无数的指人或物名词，对所修饰词的意思加以限制。
+
+> At the first day, I booked a kind of magazine `that Tom had recommended to me`.
+第一天，我订了一本汤姆推荐给我的杂志。
+
+> The little girl `who is crying`.
+那个正在哭泣的小女孩。
+
+> Every time `the telephone rings`, he gets nervous.
+每次电话响起，他都会紧张。
+
+
+
+### 副词性（状语）从句即作为副词。
+提供 时间、条件、目的、结果、原因、让步、方式、地点和比较的九种状语从句。
+
+
+The little girl who is crying as if her heart would break. (方式状语从句）
+
+The little girl who is crying as if her heart would break, said, when I spoken to her. （时间状语从句）
+
+The littler girl who is crying as if her heart would break, said, when I spoken to her that she was very sad because she had not saw her mother for two hours. （原因状语从句）
+
 ---
 
 ## 句子的成份
