@@ -302,16 +302,220 @@ We were planting trees `when` it rained.
 每次电话响起，他都会紧张。
 
 
-
 ### 副词性（状语）从句即作为副词。
-提供 时间、条件、目的、结果、原因、让步、方式、地点和比较的九种状语从句。
+有时间、地点、原因、结果、方式、目的、条件、让步和比较九种状语从句。
+
+| 表 | 引导词 |
+| --- | --- |
+|时间| when, while, as, until |
+|地点| where, wherever |
+|结果| so that, with the result that|
+|方式| as, in, as though, in the way of, by means of|
+|目的| for, so that, in order to, for the sake of|
+|条件| if, provided that, in case, so long as, given|
+|让步| as, although, even if|
+|比较| as, than, the more...the more, no...more than|
 
 
-The little girl who is crying as if her heart would break. (方式状语从句）
 
-The little girl who is crying as if her heart would break, said, when I spoken to her. （时间状语从句）
+1. 时间状语从句   
+* **常用引导词：**  
+   * when 在……时，延时性动词、瞬间性动词
+   * while 在……期间，延时性动词
+   * as 当……时，延时性动词    
+   * as soon as 一……就……   
+   * before 在……之前   
+   * after 在……之后   
+   * since 自从……以来   
+   * not...until 直到……才  
+   * until/till 直到……时   
+> `When Dad was dringking Coke`, Mom went to bed.
+老爸喝可乐的时候，老妈去睡觉了。
 
-The littler girl who is crying as if her heart would break, said, when I spoken to her that she was very sad because she had not saw her mother for two hours. （原因状语从句）
+> `While John was watching TV`, his wife was cooking.   
+当约翰看电视时，他的妻子正在做饭。
+
+> I will call you `as soon as I arrive`.  
+我一到就给你打电话。
+
+* **特殊引导词：**
+   * the moment / the minute / the second / the instant 瞬间，顷刻   
+   * immediately / directly 不久，立即   
+   * every time 每当   
+   * the day 那天   
+   * no sooner...than / hardly...when / scarcely...when / as soon as 一……就……
+
+> `No sooner had I arrived home` than it began to rain.  
+我一到家就开始下雨了。
+
+> `Every time I listen to your advice`, I get into trouble.  
+每当我听取你的建议时，我就会惹上麻烦。
+
+> The children ran away from the orchard, `the moment they saw the guard.`
+> 孩子们一看到守卫就逃出了果园。
+
+2. 地点状语从句
+
+* **常用引导词：**
+   * where 哪里
+
+> `Where there is a will`, there is a way.  
+有志者事竟成。
+
+> Go back to `where you came from`!   
+哪儿来的，回哪儿去！
+
+> `Where they went`, there they were warmly welcomed.   
+他们走到哪里都受到热烈欢迎。
+
+* **特殊引导词：**
+   * wherever 在各处
+   * anywhere 在任何地方
+   * everywhere 每个地方
+
+> `Wherever you go`, you should work hard.  
+无论你去哪里，你都应该努力工作。
+
+> I'll go anywhere `where there's sun `  
+只要有阳光的地方我都想去。
+
+> `everywhere I go` it's the same  
+我去的每个地方情况都一样
+
+
+3. 原因状语从句
+* **常用引导词：**
+   * because 因为
+   * since 因为
+   * as 因为
+
+> My friends like me `because I’m handsome and successful`.  
+我的朋友都喜欢我，因为我又英俊又成功。
+
+> `Since it was raining`, I stayed at home.   
+因为在下雨，我就待在家里。
+
+> `As she is sick`, she cannot go out.   
+她病了，所以不能外出
+
+* **特殊引导词：**
+   * seeing that 看到
+   * now that 因为
+   * in that 因为
+   * considering that 考虑到
+   * given that 考虑到
+
+> Now that everybody has come, let’s begin our conference.   
+既然每个人都到了，让我们开始我们的会议吧。
+
+> She was fortunate in that she had friends to help her.   
+她很幸运，有一些朋友帮助她。
+
+> Seeing that things were error, he took to his heels.   
+他看到事情出错，拔腿就跑。
+
+4. 结果状语从句
+* **常用引导词：**
+   * so...that 所以
+   * such...that 那样…以致
+   * so that... 以便；结果
+
+> He got up `so` early `that he caught the first bus`.   
+他起床很早所以赶上第一班公共汽车。
+
+> It’s `such` a good chance `that we must not miss it`.  
+那样好的机会，千万不能错过它。
+
+> This news is exciting, `so that he jumped up`.   
+这个消息太令人激动了，以至于他跳了起来
+
+* **特殊引导词：**
+   * such that 使得满足…的条件；是这样…以致；如此
+   * to the degree that 到…的程度;在…程度上
+   * to the extent that 到…的地步;在…程度上
+   * to such a degree that
+
+> The damage was `such that it would cost thousands to repair`.   
+损坏严重，要修好就得花几千块钱。
+
+> `To such` a degree was he excited `that he couldn’t sleep last night`.   
+他激动到这个程度，以至于他昨晚睡不着
+
+> The shortage do not exist `to the extent that you report`. 
+短缺并未严重到你报道的那种程度。
+
+5. 方式状语从句
+* **常用引导词：**
+   * as
+   * as ifs
+
+* **特殊引导词：**
+   * the way
+
+6. 目的状语从句
+* **常用引导词：**
+   * so that
+   * in order that
+
+* **特殊引导词：**
+   * lest
+   * in case
+   * for fear that
+   * in the hope that
+   * for the purpose of
+   * to the end that
+
+7. 条件状语从句
+* **常用引导词：**
+   * if 如果
+   * unless 除非
+   * whether(whether...or not) 是否
+
+> `If you don't jump`, I won't jump.  
+如果你不跳，我就不跳。
+
+> `Unless you jump`, I won't jump.  
+我不跳，除非你跳。
+
+* **特殊引导词：**
+   * as/so long as
+   * only if
+   * providing/provided that
+   * supposing that
+   * in case 美语中表条件，英语中表目的
+   * on condition that
+
+8. 让步状语从句
+* **常用引导词：**
+   * though
+   * although
+   * even if
+   * even though
+
+* **特殊引导词：**
+   * as 用在让步状语从句中必须要倒装
+   * while 一般用在句首
+   * no matter...
+   * in spite of the fact that
+   * whatever
+   * whoever   
+   * wherever
+   * whenever
+   * however
+   * whichever
+
+9. 比较状语从句
+* **常用引导词：**
+   * as 同级比较
+   * than 不同程度的比较
+
+* **特殊引导词：**
+   * the more...the more... 越来……越……
+   * just as..., so...
+   * A is to B what / as A is to B
+   * no...more than
+   * not so much A as B
+   * the 比较级, the 比较级.
 
 ---
 
