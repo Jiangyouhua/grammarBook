@@ -316,8 +316,6 @@ We were planting trees `when` it rained.
 |让步| as, although, even if|
 |比较| as, than, the more...the more, no...more than|
 
-
-
 1. 时间状语从句   
 * **常用引导词：**  
    * when 在……时，延时性动词、瞬间性动词
@@ -376,10 +374,10 @@ We were planting trees `when` it rained.
 > `Wherever you go`, you should work hard.  
 无论你去哪里，你都应该努力工作。
 
-> I'll go anywhere `where there's sun `  
+> I'll go anywhere `where there's sun`.   
 只要有阳光的地方我都想去。
 
-> `everywhere I go` it's the same  
+> `everywhere I go` it's the same.  
 我去的每个地方情况都一样
 
 
@@ -405,13 +403,13 @@ We were planting trees `when` it rained.
    * considering that 考虑到
    * given that 考虑到
 
-> Now that everybody has come, let’s begin our conference.   
+> `Now that everybody has come,` let’s begin our conference.   
 既然每个人都到了，让我们开始我们的会议吧。
 
-> She was fortunate in that she had friends to help her.   
+> She was fortunate `in that she had friends to help her`.   
 她很幸运，有一些朋友帮助她。
 
-> Seeing that things were error, he took to his heels.   
+> `Seeing that things were error`, he took to his heels.   
 他看到事情出错，拔腿就跑。
 
 4. 结果状语从句
@@ -433,7 +431,7 @@ We were planting trees `when` it rained.
    * such that 使得满足…的条件；是这样…以致；如此
    * to the degree that 到…的程度;在…程度上
    * to the extent that 到…的地步;在…程度上
-   * to such a degree that
+   * to such a degree that 以至于竟然；达到这样的程度
 
 > The damage was `such that it would cost thousands to repair`.   
 损坏严重，要修好就得花几千块钱。
@@ -446,24 +444,48 @@ We were planting trees `when` it rained.
 
 5. 方式状语从句
 * **常用引导词：**
-   * as
-   * as ifs
+   * as  以……方式；像……一样 
+   * as if  以……方式；像……一样  
+
+> he likes reading, `as I do`   
+他像我一样，喜欢阅读
+
+> She behaved `as if she were the boss`.   
+她表现得好像她是老板。
 
 * **特殊引导词：**
    * the way
 
+> Sometimes we teach our children t`he way our parents have taught us`.   
+有时，我们用父母教导我们的方式教导我们的孩子。
+
 6. 目的状语从句
 * **常用引导词：**
-   * so that
-   * in order that
+   * so that 因此; 以便
+   * in order that 为了; 以便; 目的在于
+
+> I'll give you a key `so that you can let yourself in`.   
+我把钥匙给你，你可以自己开门进去。
+
+> Go early `in order that you may get a good seat`.    
+早些去，你可以坐到好位置。
 
 * **特殊引导词：**
-   * lest
-   * in case
-   * for fear that
-   * in the hope that
-   * for the purpose of
-   * to the end that
+   * lest 免得; 以免; (引出产生某种情感的原因)唯恐，担心
+   * in case 万一; 以备; 以防; 免得
+   * for fear that 生怕
+   * in the hope that 希望; 希望能; 怀着……的希望
+   * for the purpose of 为了……的目的，为了……起见
+   * to the end that 为…起见，以便
+
+> They spoke in whispers `lest they should be heard`.    
+他们低声耳语惟恐被人听见。
+
+>`In case you should need any help`, here's my number.    
+万一你需要帮助的话，这是我的电话号码。
+
+> I got up early for `fear that we would be late`.    
+我起得早，生怕我们要迟到了。
 
 7. 条件状语从句
 * **常用引导词：**
@@ -477,46 +499,118 @@ We were planting trees `when` it rained.
 > `Unless you jump`, I won't jump.  
 我不跳，除非你跳。
 
+> You've got to go to school, `whether you like it or not`.    
+不管你喜欢不喜欢，你得上学。
+
 * **特殊引导词：**
-   * as/so long as
-   * only if
-   * providing/provided that
-   * supposing that
-   * in case 美语中表条件，英语中表目的
-   * on condition that
+   * as/so long as 只要; 只要, 如果
+   * only if 只有; 只有当
+   * providing that 假如，设若
+   * provided that 假如，设若
+   * supposing that 如果; 假使
+   * in case 美语中表条件(假使)，英语中表目的
+   * on condition that 在……条件下; 条件是
+
+> `As (so) long as you need me`, I ll stay.    
+只要你需要我，我就留下来。
+
+> I'll go `only if you go with me`.   
+只有当你跟我去，我才去。
+
+> I'll dry the dishes, `providing that you do the washing-up`.    
+如果你刷盘子，我就将它们擦干。
 
 8. 让步状语从句
 * **常用引导词：**
-   * though
-   * although
-   * even if
-   * even though
+   * though 虽然; 尽管; 即使
+   * although 虽然; 尽管; 即使; 不过; 然而
+   * even if 即使; 尽管; 纵然
+   * even though 尽管; 即使; 纵然
+
+> Anne was fond of Tim, `though he often annoyed her`.   
+安妮喜欢蒂姆，虽然他经常使她心烦。
+
+> `Although the sun was shining` it wasn't very warm.   
+尽管太阳高照，却不很暖和。
+
+> The old man always enjoys swimming `even though the weather is rough`.   
+老人都很喜欢游泳，即使天气很恶劣。
 
 * **特殊引导词：**
-   * as 用在让步状语从句中必须要倒装
-   * while 一般用在句首
-   * no matter...
-   * in spite of the fact that
-   * whatever
-   * whoever   
-   * wherever
-   * whenever
-   * however
-   * whichever
+   * as 虽然；即使（用在让步状语从句中必须要倒装）
+   * while 虽然（一般用在句首）
+   * no matter... 不管怎样
+   * in spite of the fact that 尽管
+   * whatever 无论什么 
+   * whoever 无论是谁  
+   * wherever 无论什么地方
+   * whenever 无论何时
+   * however 无论到什么程度
+   * whichever 无论哪个
+
+> `Happy as they were`, there was something missing.   
+尽管他们很快乐，但总缺少点什么。
+
+> `While I am willing to help`, I do not have much time available.     
+尽管我愿意帮忙，但是没有多少时间。
+
+> He won’t listen `whatever you may say`.   
+他不会听你说什么。
 
 9. 比较状语从句
 * **常用引导词：**
    * as 同级比较
    * than 不同程度的比较
 
+> She's very tall, `as is her mother`.  
+她个子很高，和她母亲一样。
+
+> I read much less now `than I used to`.   
+我现在看的书比过去少得多。
+
 * **特殊引导词：**
    * the more...the more... 越来……越……
-   * just as..., so...
-   * A is to B what / as A is to B
-   * no...more than
-   * not so much A as B
+   * just as... 正像; 正在…的时候
+   * A is to B what / as A is to B 甲之如乙正如……一样
+   * no more ... than 没有比……更
+   * not so much A as B 与其说……不如说……
    * the 比较级, the 比较级.
 
+> `The more he thought` the more confused he became. 
+他越想越糊涂。
+
+> She lost it, `just as I said she would`.      
+我就说了吧，她把它丢了。
+
+> Water `is to` fish `what air is to man`.  
+水之于鱼，犹如空气之于人。
+
+> This story is `not more` interesting `than that one`.   
+ This story is not so/as interesting `as that one`.  
+ 这个故事不如那个故事有趣。
+
+> He `isn't so` much ill `as depressed`．   
+他不是生病，而是情绪低落。
+
+> `The more I read the book`，`the more` I liked it．
+这本书我越看越喜欢。
+
+10. 状语从句的省略
+* 主句和从句的主语一致，或从句主语为it；
+* 从句主要动词是be的某种形式；
+* 从句中的主语和be动词常可省略。
+
+> `When (the museum is) completed`, the museum will be open to the public next year.   
+当博物馆完成，该博物馆将于明年向公众开放。
+
+> He’ll go to the seaside for his holiday `if (it is) possible`.  
+如果可能，他将去海边度假的话
+
+> I’m taller `than he (is tall)`.   
+我比他高。
+
+> `The higher the temperature (is)`, the greater the pressure (is).  
+温度越高，气压越大
 ---
 
 ## 句子的成份
@@ -525,6 +619,7 @@ We were planting trees `when` it rained.
 
 1、主语：句子所陈述的对象。
 由名词、代词、数词、不定式、动名词、主语从句和短语等来担任。
+
 > `The sun` rises in the east.   
 太阳从东方升起。 `名词`  
 
@@ -640,7 +735,7 @@ We were planting trees `when` it rained.
 > He runs `fast`. 
 他跑得很快。
 
-* 表示时间、地点、原因、结果、程度、条件、方式和让步。
+* 表示时间、地点、原因、结果、方式、目的、条件、让步、比较、方面及伴随。
 
 > I will go there `tomorrow`.  
 我明天会去那里。`时间`
@@ -654,20 +749,26 @@ We were planting trees `when` it rained.
 > He studies hard `to learn English well`.  
 他努力学习，把英语学好。`结果`
 
-> He didn’t study hard `so that he failed in the exam`.  
-他学习不努力，所以考试不及格。`结果`
+> We came `on the bus`.    
+我们坐公共汽车来的。`方式`
+
+> They went out `for a walk`.    
+他们出去散步了。`目的`
+
+> Can you see `without your glasses`.    
+你不戴眼镜能看得清东西吗？`条件`
+
+> `For all his money`, he’s a very lonely man.     
+他虽然富有，可是非常寂寞。`让步`
 
 > I like some of you `very much`.  
-我非常喜欢你们中的一些人。`程度`
+我非常喜欢你们中的一些人。`比较`
 
-> `If you study hard`, you will pass the exam.  
-如果你努力学习，你就会通过考试。`条件`
+> She is very good `in physics`.    
+她物理很好。`方面`
 
-> He goes to school `by bike`.  
-他骑自行车上学。`方式`
-
-> `Though he is young`, he can do it well.  
-他虽然年轻，但也能做好。`让步`
+> I slept `with the window open`.    
+我开着窗睡觉。`伴随`
 
 6、补语：分为宾语补足语和主语补足语。是对宾语和主语的补充说明。
 * 宾语补足语：有些及物动词除了有一个直接宾语以外，还要有一个宾语补足语，说明宾语的身份和状态。以补充其意义不足，使句子的意义完整。
@@ -757,18 +858,37 @@ We were planting trees `when` it rained.
 汤姆喜欢很多种类的水果，特别是热带水果。`指部分内容`
 
 * 同位语不会影响被说明对象的数量
-> The policemen each have a gun.   
-The policemen each has a gun. 错误  
+> The policemen each `have` a gun.   
+The policemen each `has` a gun. 错误  
 每个警察都有一把枪。
 
 * 后面基本跟同位语的词  
-namely 即, for instance 例如, for example 例如, that is 即, especially 尤其, particularly 特别, chiefly 主要, mostly 主要, mainly 主要
+   * namely 即
+   * for instance 例如
+   * for example 例如
+   * that is 即
+   * especially 尤其
+   * particularly 特别
+   * chiefly 主要
+   * mostly 主要
+   * mainly 主要
 
 > Only one student passed the exam, `namely` John.   
 只有一个学生通过了考试，也就是John.
 
 * 句子作同位语先行词  
-news 消息，idea 想法，fact 事实，promise 承诺，question 问题，doubt 怀疑，thought 想法，hope 希望，message 消息，suggestion 建议，words 消息, possibility 可能性, decision 决定
+   * news 消息
+   * idea 想法
+   * promise 承诺
+   * question 问题
+   * doubt 怀疑
+   * thought 想法
+   * hope 希望
+   * message 消息
+   * suggestion 建议
+   * words 消息
+   * possibility 可能性
+   * decision 决定
 
 > The `idea` that I can be a millionaire is impossible.   
 我会成为百万富翁这个想法是不可能的。
@@ -798,58 +918,219 @@ news 消息，idea 想法，fact 事实，promise 承诺，question 问题，dou
   
 ## 句子的形式
 
-* 陈述句
-  * 指陈述一个事实或者说话人的看法的句型。
-  * 分为肯定的陈述句和否定的陈述句，简称为肯定句和否定句。
-  > Mark Twain `is` a famous American writer.  
-  马克吐温是一位著名的美国作家。  
-  You `shouldn't` play at the crossings.   
-  你不应该在交叉路口玩。
+### 陈述句
+* 指陈述一个事实或者说话人的看法的句型。
+* 分为肯定的陈述句和否定的陈述句，简称为肯定句和否定句。
 
-* 疑问句
-  * 一般疑问句
-    * be动词或情态动词的一般疑问句，其结构为： be动词 + 主语 + 其它。
-    > `Is` this your English book？  
-      Yes，it is.  
-      No，it isn’t.
-    * 含行为动词（或称为实义动词）的一般疑问句： 助动词 + 主语 + 动词原形 + 其它。
-    > `Do` your parents like English？  
-      Yes，they do.  
-      No，they don’t.
-  * 反意疑问句
-    * 陈述部分肯定式 + 疑问部分否定式
-    > They work hard, `don’t` they?   
-      他们努力工作，不是吗？
-    * 陈述部分否定式 + 疑问部分肯定式
-    > You `didn't` go, did you?   
-      你没去，是吗？
-  
-* 特殊疑问句  
-    * 以特殊疑问词开头，对句中某一成分提问的句子。
-    * 常用的疑问词：what（什么）、who（谁）、whom（谁，对宾语提问）、whose（谁的）、which（哪个，在一定范围内选择）、when（询问时间）、where（询问地点）、how（询问怎么样）、why（询问原因）等。
-    > `Who` is she?  
-      她是谁？  
-      `What` is this?  
-      这是什么？  
-      `Whose` ticket is this?  
-      这票是谁的？  
-      `Which` one do you choose?  
-      你选哪一个？  
-      `Where` are you going?  
-      你要去哪儿？  
-      `When` are you coming back?  
-      什么时候回来？  
-      `How` long will you stay?  
-      会呆多长时间？  
-      `Why` not come back earlier.  
-      为什么不早一点回来。
+> Mark Twain `is` a famous American writer.  
+马克吐温是一位著名的美国作家。  
 
-* 祈使句
+> You `shouldn't` play at the crossings.   
+你不应该在交叉路口玩。
+
+### 疑问句
+#### 一般疑问句
+* be动词或情态动词的一般疑问句，其结构为： be动词 + 主语 + 其它。
+
+> `Is` this your English book？  
+Yes，it is.  
+No，it isn’t.
+
+* 含行为动词（或称为实义动词）的一般疑问句： 助动词 + 主语 + 动词原形 + 其它。
+
+> `Do` your parents like English？  
+Yes，they do.  
+No，they don’t.
+
+#### 选择疑问句  
+* 一般疑问句部分 + or + 可选项。
+
+> Would you like a gin，`or a whisky`，`or a beer`？      
+你是要喝杜松子酒，还是威士忌酒，还是啤酒？
+
+> Can you sing `or dance`?
+你会唱歌或跳舞吗?
+I can sing.
+我会唱歌。
+
+#### 反意疑问句
+* 陈述部分肯定式 + 疑问部分否定式
+
+> They work hard, `don’t` they?   
+他们努力工作，不是吗？
+
+* 陈述部分否定式 + 疑问部分肯定式
+> You `didn't` go, did you?   
+你没去，是吗？
+---
+#### 特殊疑问句  
+* 以特殊疑问词开头，对句中某一成分提问的句子。
+1. 判断所代替的成份。如`主语`、`宾语`、`表语`、`不代替`，即为`疑问代词`， 则：
+> 疑问句 + （一般疑问句肯定式 - 被代替的成份）
+2. 判断所代替的成份。如`状语`、`定语`、`补语`，即为`疑问副词`或`形容词`，则：
+> 疑问句 + 被代替成份所修饰的词 + （一般疑问句肯定式 - 被代替成份及修饰的词）
+
+* who 谁
+* whom 谁，对宾语提问（英国书面语）
+> `Who` is she?  
+她是谁？ 
+
+* whose 谁的
+> `Whose` are these books on the desk?   
+桌上的书是谁的？`代替宾语`   
+There book on the table is `his`. 
+
+> `Whose books` are these on the desk?     
+桌上的书是谁的？`代替状语`      
+There are `his books` on the table. 
+
+* which 哪个，在一定范围内选择
+> `Which` is your seat?   
+哪一个是你的座位？ `代替主语` 
+`That` is your seat.
+
+> `Which seat` is your?   
+哪一个是你的座位？`代替状语` 
+`This seat `is your.
+
+* where 询问地点
+`Where` are you going?  
+你要去哪儿？ `代替宾语` 
+
+* when 询问时间
+> `When` are you coming back?  
+什么时候回来？ `代替副词，无修饰的词` 
+
+* why 询问原因
+> `Why` do you want to improve your English? 
+你为什么想提高你的英语？ `不代替` 
+
+* **what 什么**
+1. 代替或修饰可数名词或不可数名词在句中作主语，宾语，表语，定语。
+
+> `What` makes you love your hometown so much?   
+是什么使你这么热爱你的家乡？
+
+> `What` interest do you have？   
+你有什么爱好？
+
+2.What be + 主语，what do + 主语 + do 用于询问职业。
+
+> `What is` your mother？  
+你妈妈是做什么工作的？
+
+> `What do` you `do` for a living？  
+你做什么工作为生？
+
+3.What be + 主语 + like 用于询问品行，性格，状况等。
+> `What is` the weather `like`？  
+天气怎么样？
+
+> `What is` lucy `like` ？  
+路西这个人怎么样？  
+she is very diligent, friendly and lovely.  
+她很勤奋，友善，可爱。  
+
+4.What do + 主语 + look like 用于询问外貌，长相
+
+> `What does` mary `look like`?     
+玛丽长得怎么样？  
+She is tall and thin.  
+她又高又瘦。
+
+5.What...for 用于询问原因和用处
+
+> `What` did she put the books away `for`？  
+她把书整理好干什么？  
+She wanted to play.  
+她想出去玩。  
+
+> `What`'s this gadget `for`？  
+这个小玩意儿是干什么用的？
+
+6.What if...？用于提出疑虑或建议，意思是如果……怎么办/怎么样？
+> `What if` it rains tomorrow？  
+明天下雨怎么办？   
+
+7.What about...？用来提出建议或询问情况
+> What time shall we meet？   
+我们什么时候见面？   
+`What about` 7 o'clock tomorrow morning？   
+明天早上7点怎么样？
+
+* **how 询问怎么样**
+
+1．问身体健康等情况.
+> `How` are your parents?   
+你父母身体好吗?
+
+2．问天气状况.
+> `How` is the weather today?   
+今天天气怎么样?
+
+3．询问方式.
+> `How` does your mother go to work every day?   
+你妈妈每天怎么去上班?
+
+4．询问程度.
+> `How` do you like this book?   
+你觉得这本书怎么样?
+
+5．How old 问年龄、年代.
+> `How old` is your friend?   
+你朋友多大了?
+
+6．How many 问可数名词数量. 常将可数名词复数紧随其后. 
+> `How many` pictures are there on the wall?   
+墙上有多少幅画?
+
+7．How much 询问不可数名词的数量、物品的价格.
+> `How much` money is there in the purse?   
+钱包里有多少钱?
+
+8．How long 提问物体的长度、时间的长短.
+> `How long` is the Changjia River?   
+长江有多长?
+
+10．How soon 对 “in+一段时间”提问, 表示“多久之后”.    
+> `How soon` will you be back?    
+你多久后回来?
+
+11．How often 对表示频率的副词或短语提问.
+> `How often` does Mrs.Green go shopping?    
+格林夫人多久去购一次物?
+
+12．How about 用来征求对方意见.
+> `How about` playing games after school this afternoon?    
+下午放学后做游戏怎么样?
+
+13．一些常见的询问。
+How far 问两地间的距离
+> `How far` is it from the earth to the moon?    
+从地球到月球有多远?
+
+* How tall 问人（树）的高度；
+> `How tall` is Yao Ming?    
+姚明身高多少?
+
+* how heavy 问重量；
+> `How heavy` is that big box?    
+那只大箱子有多重?
+
+* how wide问宽度；
+> `How wide` is the new street?      
+这条新街有多宽?
+
+* how high可以询问建筑物、山峰高度.    
+> `How high` is the tower in Paris?    
+巴黎的那座塔有多高?
+
+### 祈使句
   * 表达命令、请求、劝告、警告、禁止等的句子。
   > Be quiet for a moment.   
     请安静一会。
 
-* 感叹句
+### 感叹句
   * 是用来表达说话者说话时的惊异、喜悦、愤怒、气愤等思想感情的句子。
   * 一般结构：What(How) + 感叹的部分 + 主语 + 谓语!
   * 有多种表现形式，有时一个单词、短语或一个词组也可成为感叹句。
