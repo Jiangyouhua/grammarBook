@@ -1,4 +1,4 @@
-[目录](./README.md)
+[目录](../README.md)
 # 副词
 
 * 副词（adv.）：

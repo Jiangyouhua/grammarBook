@@ -1,4 +1,4 @@
-[目录](./README.md)
+[目录](../README.md)
 # 数词
 
 * 数词（num.）：

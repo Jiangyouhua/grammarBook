@@ -1,4 +1,4 @@
-[目录](./README.md)
+[目录](../README.md)
 # 一段对话
 
 > A：I love you.   

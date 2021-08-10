@@ -1,4 +1,4 @@
-[目录](./README.md)
+[目录](../README.md)
 # 冠词
 
 * 冠词（art.）：

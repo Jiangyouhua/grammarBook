@@ -1,4 +1,4 @@
-[目录](./README.md)     [上级](./README.md) 
+[目录](../README.md)     [上级](../README.md) 
 
 # 并列句
 
