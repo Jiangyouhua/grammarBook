@@ -1,12 +1,19 @@
 [目录](../README.md)     [上级](../README.md) 
 
 # 并列句
+    1. 由并列连词，把两个或两个以上的简单句连在一起。
+    2. 不同的并列连词表示并列分句之间的不同关系。
 
-## **并列句**
-* 由并列连词把两个或两个以上的简单句连在一起。
-* 不同的并列连词表示并列分句之间的不同关系。
+* [并列关系](#并列关系)
+* [转折关系](#转折关系)
+* [选择关系](#选择关系)
+* [因果关系](#因果关系)
+* [其它关系](#其它关系)
 
-1. 表示并列关系：
+---
+
+## 联合关系
+    表联合、递进或顺承关系。
 
 * and 和，同，与，又，并且  
 > He washed the car `and` (he) polished it.   
@@ -24,11 +31,21 @@
 > `Not only` does the sun give us light `but also` it gives us heat.   
 太阳`不仅`给了我们光明，`而且`给了我们热量。
 
+* not... but... 不仅……而且。
+> He `not` only washed the car, `but` also polished it.  
+他`不仅`冲洗了汽车，`而且`也给汽车打了蜡。
+
 * neither... nor... 既不……也不……
 > They worked `neither` for fame `nor` for personal gains.   
 他们工作`既不`为名，`也不`为利。 
 
-2. 表示转折、对比关系。
+* when 正当那时，相当于and at that time   
+> We were planting trees `when` it rained.   
+下雨时我们`正在`植树。
+
+---
+## 转折关系
+    表示转折、对比关系。
 
 * but 但是，可是，而，却
 > I hope you don't mind, `but` where did you buy those shoes?  
@@ -45,8 +62,9 @@
 * while 而，但是，可是，却   
 > I do everything, `while` Bob only washes the dishes once.   
 我什么都做，`而`鲍勃只洗一次盘子。
-
-3. 表示选择关系。
+---
+## 选择关系
+    表示单选、不选关系。
 
 * either ... or 要么……要么……
 > He `either` washes the car, `or` polishes it.  
@@ -56,8 +74,15 @@
 > He `neither` washes the car, `nor` polishes it.  
 他`既不`冲洗汽车，`也不`给汽车打蜡。
 
-4. 表示因果关系。
+* rather than 而不是；与其……宁愿
+> `Rather than` ride on a bus, he prefers to ride a bicycle.   
+`与其`坐公共汽车，他更喜欢骑自行车。
 
+* otherwise 要不然
+> Seize the chance, `otherwise` you will regret it.   
+要抓住机会，`否则`你会后悔的。
+---
+## 因果关系
 * and 因此
 > He drank beer, `and` it made him fat.   
 他喝啤酒，`因此`发胖了。（并列连词是and）
@@ -66,20 +91,12 @@
 > He never washes his car, `for` he can’t afford it。  
 他从不洗车，`因为`他负担不起。
 
+> He shook his head, `for` he thought differently.   
+他摇了摇头，`因为`他有不同想法。
+
 * so 所以
 > He never washes his car, `so` his car is very dirty.  
 他从来不洗车，`因此`他的车非常脏。
 
-5. 表示其它关系。
-
-* not... but... 不仅……而且。
-> He `not` only washed the car, `but` also polished it.  
-他`不仅`冲洗了汽车，`而且`也给汽车打了蜡。
-
-* rather than 而不是；与其……宁愿
-> `Rather than` ride on a bus, he prefers to ride a bicycle.   
-`与其`坐公共汽车，他更喜欢骑自行车。
-
-* when 正当那时，相当于and at that time
-We were planting trees `when` it rained.
-下雨时我们`正在`植树。
+> He told me to do it, `so` I did it.   
+他让我这样做，`于是`我就这样做了
