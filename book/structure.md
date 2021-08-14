@@ -10,8 +10,8 @@
 ---
 ## 主谓  
 
-    1. 称为"主谓结构"。
-    2. 其谓语一般是不及物动词。
+1. 称为"主谓结构"。
+2. 其谓语一般是不及物动词。
 
 > Things `change`.  
   事物是变化的。
@@ -28,11 +28,12 @@
 > I'll go `swimming`.  
 我去游泳。+ `现在分词`，作状语   
 
-    doing形式，作状语为现在分词，作宾语为动名词。
+doing形式，作状语为现在分词，作宾语为动名词。
+
 ---
 ## 主系表
-    1. 称为"主系表结构"。
-    2. "系 + 表"才是谓语。
+1. 称为"主系表结构"。
+2. "系 + 表"才是谓语。
 
 > Mr. Turner is an `artist`.   
 特纳先生是位画家。 `名词`
@@ -53,8 +54,8 @@
 他很兴奋。`过去分词`
 ---
 ## 主谓宾
-    1. 称为"主谓宾结构"。
-    2. 谓语多为及物动词。
+1. 称为"主谓宾结构"。
+2. 谓语多为及物动词。
 
 > I like `music`.   
 我喜欢音乐。 `名词`
@@ -75,19 +76,19 @@
 我们不认为他是对的。`宾语从句`
 ---
 ## 主谓宾宾
-    1. 称为"主谓宾宾结构"。
-    2. 谓语多为双宾语及物动词。
-    3. 物，直接宾语；人，间接宾语。
+1. 称为"主谓宾宾结构"。
+2. 谓语多为双宾语及物动词。
+3. 物，直接宾语；人，间接宾语。
 
 > He `gave` his `sister` `the book`.     
   他把这本书给了他的妹妹。  
   `sister 间接宾语，the book 直接宾语`
 
 ### 主谓宾宾可改为介词引导
-    主谓 + 间宾 + 直宾，可转为 主谓 + 直宾 + to/for + 间宾
+主谓 + 间宾 + 直宾，可转为 主谓 + 直宾 + to/for + 间宾
 #### 一、改to引导（do sb. sth. -> do sth. to sb.） 
-    1. give 给, bring 带, lend 借, pass 传递, return 归还, send 发送, show 展示, tell 讲述, read 读, write 写, hand 处理, pay 支付, offer 提供, teach 教育, throw 抛弃。  
-    2. 含有：给，对的意思。
+1. give 给, bring 带, lend 借, pass 传递, return 归还, send 发送, show 展示, tell 讲述, read 读, write 写, hand 处理, pay 支付, offer 提供, teach 教育, throw 抛弃。  
+2. 含有：给，对的意思。
 
 > Please give me a dictionary.   
 Please give a dictionary `to` me.   
@@ -106,8 +107,8 @@ I paid the money `to` him.
 我将钱付`给`了他。 
 
 #### 二、改for引导（do sb. sth. -> do sth. for sb.）
-    1. buy 买, get 得到, make 制作, sing 唱歌, order 订购, cook 烹饪, fetch 取物, play 玩耍, find 查找, paint 绘画, choose 选择, prepare 准备, spare 备用。
-    2. 含有：为，帮的意思。
+1. buy 买, get 得到, make 制作, sing 唱歌, order 订购, cook 烹饪, fetch 取物, play 玩耍, find 查找, paint 绘画, choose 选择, prepare 准备, spare 备用。
+2. 含有：为，帮的意思。
 
 > Fetch me the dictionary.  
 Fetch the dictionary `for` me.   
@@ -150,9 +151,9 @@ She played a trick `on` me.
 她给我开了一个玩笑。
 ---
 ## 主谓宾补
-    1. 称为"主谓宾补结构"。
-    2. 补语是宾语补足语。
-    3. "宾 + 补"构成复合宾语。
+1. 称为"主谓宾补结构"。
+2. 补语是宾语补足语。
+3. "宾 + 补"构成复合宾语。
 
 > We named our baby `Tom`.  
 我们给我们的宝宝取名为汤姆。`名词`
