@@ -16,11 +16,12 @@
 ## [2. 代词](./book/pronoun.md)
 与人相关的代词表，人称代词、物主代词、反身代词、指示代词、相互代词、疑问代词、关系代词、连接代词、不定代词、替代词。
 
-## [3. 动词](./book/varb.md)
-3.1 谓语动词（限定性动词）   
-3.2 实义动动、系动词   
-3.3 助动词、情态动词   
-3.4 非谓语动词（非限定性动词）
+## [3. 动词](./book/varb.md)  
+[3.1 实义动词](./book/notional.md)   
+[3.2 系动词](./book/be.md)   
+[3.3 助动词](./book/auxiliary.md)   
+[3.4 情态动词](./book/can.md)  
+[3.5 非限定性动词](./book/nonFinite.md)
 
 ## 3.2. 非谓语动词
 不定式、动名词、分词。
@@ -133,4 +134,7 @@ How 引导的感叹句、What 引导的感叹句。
 ## [1. 虚拟语气](./book/abnormality.md)   
 ## [2. IT的用法](./book/abnormality.md)   
 ## [3. 主谓一致](./book/abnormality.md)   
-## [4. 插入语、直接引用与间接引用语](./book/abnormality.md)   
+## [4. 插入语、直接引用与间接引用语](./book/abnormality.md)  
+
+## 十、附录
+## [1. 过去式、过去分词不规则变化表](./book/pass.md) 
