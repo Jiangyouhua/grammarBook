@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no" />
+    <title>文档标题</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+
+<body>
+    <h1>目录</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>名称</th>
+                <th>信息</th>
+                <th>图片</th>
+                <th>修改</th>
+            </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+    </table>
+    <h1>编辑</h1>
+    <form id="form" onsubmit="setItem(event)">
+        <input type="hidden" name="id" value="0">
+        <input type="text" name="name" placeholder="名称">
+        <input type="text" name="info" placeholder="信息">
+        <input type="text" name="image" placeholder="图片">
+        <input type="text" name="sequence" placeholder="排序">
+        <button type="reset">Reset</button>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>
+<script src="main.js"></script>
+<script>
+    getItem()
+</script>

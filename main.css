@@ -1,0 +1,28 @@
+table {
+    width: 98%;
+    border-collapse: collapse;
+}
+
+th {
+    border-top: thin dashed #aaa;
+    border-bottom: thin solid #aaa;
+    padding: 5px 0;
+}
+
+td {
+    border-bottom: thin dashed #aaa;
+    padding: 5px 0;
+}
+li {
+    margin: 5px 0;
+}
+
+input {
+    width: 98%;
+    margin: 5px 0;
+}
+
+button {
+    width: 49.1%;
+    margin: 5px 0;
+}

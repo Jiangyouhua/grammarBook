@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no" />
+    <title>文档标题</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+
+<body>
+    <h1>目录</h1>
+    <table>
+        <thead>
+            <th>内容</th>
+            <th>选项</th>
+            <th>答案</th>
+        </thead>
+        <tbody id="tbody"></tbody>
+    </table>
+    <h1>编辑</h1>
+    <form id="form" onsubmit="setQuestion(event)">
+        <input type="hidden" name="id" value="0">
+        <input type="text" name="content" placeholder="内容">
+        <input type="text" name="option" placeholder="选项，用分号分割">
+        <input type="text" name="answer" placeholder="答案，用分号分割">
+        <button type="reset">Reset</button>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>
+<script src="main.js"></script>
+<script>
+    getQuestion()
+</script>
