@@ -2,6 +2,8 @@ let url = "./back"
 var categorys = []
 var items = []
 var questions = []
+var rank = 0
+var sequence = 0
 
 /** Category */
 
@@ -13,6 +15,12 @@ function setCategory(e) {
     }
     data.append("handle", "set")
     data.append("table", "category")
+    if (!data.get("rank")) {
+        data.set("rank", rank)
+    }
+    if (!data.get("sequence")) {
+        data.set("sequence", sequence)
+    }
     request(data, function (result) {
         if (!result.Status) {
             window.location.reload()
@@ -33,10 +41,13 @@ function getCategory() {
             return
         }
         categorys = result.Data
+        rank = parseInt(categorys[0].rank)
+        sequence = parseInt(categorys[0].sequence) + 1
         let doc = document.getElementById("tbody")
         for (let i = 0; i < result.Data.length; i++) {
             let element = result.Data[i]
-            let a = `<tr><td><a href="#form" onclick="eidtCurrent(${i}, 'categorys')">${element.name}</a></td><td>${element.info}</td><td><a href="./item.html?id=${element.id}">语法</a></td><tr>`
+            let prefix = new Array(parseInt(element.rank) + 1).join("--")
+            let a = `<tr><td>${element.sequence}</td><td><a href="#form" onclick="eidtCurrent(${i}, 'categorys')">${prefix} ${element.name}</a></td><td>${element.info}</td><td><a href="./item.html?id=${element.id}&name=${element.name}">语法</a></td><tr>`
             doc.innerHTML += a
         }
     })
@@ -53,6 +64,12 @@ function setItem(e) {
     data.append("handle", "set")
     data.append("table", "item")
     data.append("cid", query("id"))
+    if (!data.get("rank")) {
+        data.set("rank", rank)
+    }
+    if (!data.get("sequence")) {
+        data.set("sequence", sequence)
+    }
     request(data, function (result) {
         if (!result.Status) {
             window.location.reload()
@@ -73,10 +90,12 @@ function getItem() {
             return
         }
         items = result.Data
+        rank = parseInt(items[0].rank)
+        sequence = parseInt(items[0].sequence) + 1
         let doc = document.getElementById("tbody")
         for (let i = 0; i < result.Data.length; i++) {
             let element = result.Data[i]
-            let a = `<tr><td><a href="#form" onclick="eidtCurrent(${i}, 'items')">${element.name}</a></td><td>${element.info}</td><td>${element.image}</td><td><a href="./question.html?id=${element.id}">实例</a></td></tr>`
+            let a = `<tr><td>${element.sequence}</td><td><a href="#form" onclick="eidtCurrent(${i}, 'items')">${element.name}</a></td><td>${element.info}</td><td>${element.image}</td><td><a href="./question.html?id=${element.id}&name=${element.name}">实例</a></td></tr>`
             doc.innerHTML += a
         }
     })

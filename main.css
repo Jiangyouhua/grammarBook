@@ -26,3 +26,7 @@ button {
     width: 49.1%;
     margin: 5px 0;
 }
+
+a:link, a:active, a:hover, a:visited {
+    text-decoration: none;
+}

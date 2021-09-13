@@ -42,7 +42,11 @@ func NewPool() (*Pool, error) {
 }
 
 func (p *Pool) FetchAll(table string) *Result {
-	query := fmt.Sprintf("SELECT * FROM `%s`", table)
+	order := ""
+	if table == "category" || table == "items" {
+		order = " ORDER BY sequence DESC"
+	}
+	query := fmt.Sprintf("SELECT * FROM `%s`%s", table, order)
 	println("FetchAll: ", query)
 	rows, err := p.db.Query(query)
 	if err != nil {

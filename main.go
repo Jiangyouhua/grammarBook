@@ -8,6 +8,8 @@ import (
 	"strings"
 )
 
+var pool *Pool
+
 func main() {
 	http.Handle("/", http.FileServer(http.Dir("./")))
 	http.HandleFunc("/back", back)
@@ -46,10 +48,12 @@ func back(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	pool, err := NewPool()
-	if err != nil {
-		ResultOut(3, err, w)
-		return
+	if pool == nil {
+		pool, err = NewPool()
+		if err != nil {
+			ResultOut(3, err, w)
+			return
+		}
 	}
 	switch handle {
 	case "get":
