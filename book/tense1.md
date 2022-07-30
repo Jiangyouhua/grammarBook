@@ -22,16 +22,17 @@
 > Bill likes beef, but he doesn't likes chicken. 
 > 比尔喜欢牛肉，但他不喜欢鸡肉。
 
-## 语子结构
+## 句子结构
+句子结构有两种，一是Be动词的（主系表结构），一是实义动词的（主谓宾结构）。
 ### 一、Be动词。  
-主语 + be动词 + 其它。 
+主语 + be动词 + 表语语。 
 #### 1. 结构表。
+You不论是你，还是你们都对应are。
 | 陈述句肯定式 | 陈述句否定式 |  一般疑问句  |
 | --- | --- |  --- |
 | I am ... | I am not ...| Am I ... | 
-| You are ... | You are not ...| Are you ... |
-| He/She/It is ... | He/She/It is ...| Is he/she/it ...
-| We/You/They are ... | We/You/They are not ...|  Are we/you/they ...|
+| He/She/It is ... | He/She/It is not ...| Is he/she/it ...
+| We/You/They are ... | We/You/They are not ...| Are We/You/They ... |
 
 #### 2. 陈述句。
 > `I'm `Iron Man, `I'm not` Spider-Man.  
@@ -47,54 +48,33 @@
 > 他们是复仇者联盟，他们不是正义联盟。
 
 #### 3. 一般疑问句的问答。
-|数量|第一人称 |  第二人称 | 第三人称 |
+注意，第一个称单与第二人称单的部答关系：第一人称问，第二人称答；第二人称问第一人称答。
+|类别|问 |  肯定答| 否定答 |
 |---| --- | --- | --- |
-|单数，问|  Am I ...? | Are you ...? | Is he/she/it ...? |
-|肯定问答|  Yes, you are. | Yes, I am. | Yes, he/she/it is.|
-|否定问答|  No, you are not. | No, I am not. | No, he/she/it is not. |
-|复数，问|  Are we ...? | Are you ...? | Is they ...? |
-|肯定问答|  Yes, we are. | Yes, you are. | Yes, they are.|
-|否定问答|  No, we are not. | No, you are not. | No, they are not. |
+|第一人称单|  Am I ...? | Yes, you are. | No, you are not. |
+|第二人称单|  Are you ...?| Yes, I am. | No, I am not.|
+|第三人称单|  Is he/she/it| Yes, he/she/it is. | No, he/she/it is not. |
+|其它人称复|  Are we/you/they | Yes, we/you/they are | Yes, we/you/they are not |
 
-> `Are you` Spiderman?  
-  No, `I am` not    
+> `Are you` Spiderman?    
 你是蜘蛛侠吗？  
-不，我不是。  
-
-> `Are you` Iron Man?  
 Yes, `I am`.  
-你是钢铁侠吗？  
-是的，我是的。
-
-> `Am I` from Hydra?  
-No, `you are` not.  
-我是九头蛇的人吗？  
-不，你不是。  
+No, `I am not`  
 
 > `Am I` Captain America?  
-Yes, `you are`.  
 我是美国队长吗？  
-是，你是的。  
+Yes, `you are`.  
+No, `you are not1`.   
 
 > `Is she` Scarlet Witch?  
-No, `she is` not.  
 她是绯红女巫？  
-不，她不是。  
-
-> `Is she` a black widow?  
-Yes, `she is`  
-她是黑寡妇吗？  
-是， 她是的。
-
-> `Are they` the Justice League?  
-No, `they are` not.  
-他们是正义联盟吗？  
-不，他们不是。  
+Yes, `she is`   
+No, `she is` not.    
 
 > `Are they` the Avengers?  
-Yes, `they are`  
 他们是复仇者联盟吗？  
-是，他们是的。
+Yes, `they are`  
+No, `they are` not.   
 
 ### 二、 实义动词（也常称do动词）。
 主语 + 实义动词 + 其它。  
@@ -102,12 +82,11 @@ Yes, `they are`
 
 #### 1. 结构表。 
 下表以实义动词`like`为例。   
+
 | 陈述句肯定式 | 陈述句否定式 |  一般疑问句  |
 | --- | --- |  --- |
-| I like ... | I do not like ...| Do I like ... | 
-| You like ... | You do not like ...| Do you like ... |
 | He/She/It likes ... | He/She/It does not like ...| Does he/she/it like ...
-| We/You/They like ... | We/You/They do not like ...|  Do we/you/they like ...|
+| I/We/You/They like ... | I/We/You/They do not like ...|  Do I/we/you/they like ...|
 
 #### 2. 陈述句。
 > `I like` Iron Man, `I do not like` Spider-Man.  
@@ -123,54 +102,31 @@ Yes, `they are`
 > 他们喜欢复仇者联盟，他们不喜欢正义联盟。
 
 #### 3. 一般疑问句的问答。
-|数量|第一人称 |  第二人称 | 第三人称 |
+注意，第一个称单与第二人称单的部答关系：第一人称问，第二人称答；第二人称问第一人称答。
+
+|类别|问 |  肯定答| 否定答 |
 |---| --- | --- | --- |
-|单数，问|  Do I like ...? | Do you like ...? | Dose he/she/it like ...? |
-|肯定问答|  Yes, you do. | Yes, I do. | Yes, he/she/it does.|
-|否定问答|  No, you do not. | No, I do not. | No, he/she/it does not. |
-|复数，问|  Do we like ...? | Do you like ...? | Do they like ...? |
-|肯定问答|  Yes, we do. | Yes, you do. | Yes, they do.|
-|否定问答|  No, we do not. | No, you do not. | No, they do not. |
-
+|第三人称单|  Dose he/she/it| Yes, he/she/it dose. | No, he/she/it dose not. |
+|其它人称复|  Do I/we/you/they | Yes, I/we/you/they do | No, I/we/you/they do not |
 > `Do you like` Spiderman?  
-  No, `I do` not    
 你喜欢蜘蛛侠吗？  
-不，我不喜欢。  
-
-> `Do you like` Iron Man?  
-Yes, `I do`.  
-你喜欢钢铁侠吗？  
-是的，我喜欢。
-
-> `Do I like` from Hydra?  
-No, `you do` not.  
-我喜欢九头蛇的人吗？  
-不，你不喜欢。  
+Yes, `I do`.   
+No, `I do not`.    
 
 > `Do I like` Captain America?  
-Yes, `you do`.  
 我喜欢美国队长吗？  
-是，你喜欢。  
+Yes, `you do`.   
+No, `you do not`.    
 
 > `Does she like` Scarlet Witch?  
-No, `she does` not.  
 她喜欢绯红女巫？  
-不，她不喜欢。  
-
-> `Do she like` a black widow?  
-Yes, `she does`  
-她喜欢黑寡妇吗？  
-是， 她喜欢。
-
-> `Do they like` the Justice League?  
-No, `they do` not.  
-他们喜欢正义联盟吗？  
-不，他们不喜欢。  
+Yes, `she does`.   
+No, `she does not`.  
 
 > `Do they like` the Avengers?  
-Yes, `they do`  
 他们喜欢复仇者联盟吗？  
-是，他们喜欢。
+Yes, `they do`.    
+No, `they do not`.     
 
 ## 缩写
 |类别|缩写| 方式|  
